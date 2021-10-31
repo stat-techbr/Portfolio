@@ -5,6 +5,8 @@ Example Data Science Portfolio
 
 - In this project it is possible to see how COVID-19 is spreading around the world. 
 
+![alt text]()
+
 # Project 2: Movies Project
 
 Here are the description about it.
