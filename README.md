@@ -5,7 +5,7 @@ Example Data Science Portfolio
 
 - In this project it is possible to see how COVID-19 is spreading around the world. 
 
-![alt text]()
+![](https://github.com/stat-techbr/Portfolio/blob/main/images/casos_brasil_media_movel.jpg?raw=true)
 
 # Project 2: Movies Project
 
