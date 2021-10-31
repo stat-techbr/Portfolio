@@ -7,4 +7,4 @@ Example Data Science Portfolio
 
 # Project 2: Movies Project
 
-
+Here are the description about it.
